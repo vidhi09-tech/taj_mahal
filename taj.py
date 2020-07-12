@@ -1,5 +1,5 @@
 # the code is so long. take time to read..
-# it takes me 3 hours to complete this coding, as first i drew the image of taj mahal on a piece of paper..
+# it took me 3 hours to complete this coding, as first i drew the image of taj mahal on a piece of paper..
 # i uploaded a snapshot of the output...
 
 
